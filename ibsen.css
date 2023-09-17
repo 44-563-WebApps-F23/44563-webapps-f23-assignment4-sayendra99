@@ -42,5 +42,7 @@ TR{background-color: rgb(128, 253, 135);}
 tr:nth-child(even) {
     background-color: #45255d;
   }
-  .MISSTESMAN:hover{background-color: rgb(213, 30, 30);color:azure;}
-  .BERTA:hover{background-color: rgb(24, 24, 100);color:ghostwhite;}
+  .MISSTESMAN:hover{background-color: rgb(213, 30, 30);color:azure;
+text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);
+}
+  .BERTA:hover{background-color: rgb(24, 24, 100);color:ghostwhite;text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);}
