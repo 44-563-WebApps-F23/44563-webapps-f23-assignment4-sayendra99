@@ -11,24 +11,34 @@
     background-color: rgb(175, 240, 179);
     
 }
-.directions:hover{
-    background-color:rgb(255, 238, 51);
-    color:rgb(0, 16, 157);
-   
-}
-.BERTA{
-    color: rgb(48, 22, 241);
-   
-   
-    font-size:15px;
-    font-family: Arial;
+.directions:hover{background-color:rgb(255, 238, 51);color:rgb(0, 16, 157);}
+.BERTA{color: rgb(48, 22, 241);font-size:15px;font-family: Arial;}
+.MISSTESMAN {COLOR:rgb(255, 0, 0);fONT-size: 20PX;font-family: georgia;}
+table{
+    margin: CENTER;
+    margin-left: 430PX;
+    margin-right: 450px;
+    margin-top: 20PX;
+    margin-bottom: 20PX;
+    background-color: rgb(165, 202, 245);
+    color: rgb(232, 5, 5);
+    BORDER:1PX georgia;
 
-    
-}
-.MISSTESMAN {
-    COLOR:rgb(255, 0, 0);
-    FONT-size: 20PX;
-    font-family: georgia;
-   
 
 }
+th{
+    background-color: rgb(245, 249, 253);
+    color: rgb(107, 213, 0);
+    text-align: center;
+    padding: 25px;
+    border:2px solid rgb(255, 135, 55);
+}
+TD{
+    border: 5px rgb(214, 255, 8);
+    text-align: left;
+    padding: auto;
+}
+TR{background-color: rgb(128, 253, 135);}
+tr:nth-child(even) {
+    background-color: #45255d;
+  }
