@@ -16,8 +16,19 @@
     color:rgb(0, 16, 157);
    
 }
-.name{
+.BERTA{
     color: rgb(48, 22, 241);
-    font-style: unset;
-    font-family:times ;
+   
+   
+    font-size:15px;
+    font-family: Arial;
+
+    
+}
+.MISSTESMAN {
+    COLOR:rgb(255, 0, 0);
+    FONT-size: 20PX;
+    font-family: georgia;
+   
+
 }
