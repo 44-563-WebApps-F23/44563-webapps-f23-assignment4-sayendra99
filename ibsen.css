@@ -1,7 +1,23 @@
-#speech {
-    font-style: normal;
-    font-size: medium;
+.speech {
+    
     color: black;
-    font-family:sans-serif;
+    font-family:serif;
 
+}
+.directions{
+    font-family:monospace;
+    font-size:15px ;
+    color:black;
+    background-color: rgb(175, 240, 179);
+    
+}
+.directions:hover{
+    background-color:rgb(255, 238, 51);
+    color:rgb(0, 16, 157);
+   
+}
+.name{
+    color: rgb(48, 22, 241);
+    font-style: unset;
+    font-family:times ;
 }
