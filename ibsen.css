@@ -15,14 +15,14 @@
 .HEDDA{color: rgb(48, 22, 241);font-size:15px;font-family: Arial;}
 .MISSTESMAN {COLOR:rgb(255, 0, 0);fONT-size: 20PX;font-family: georgia;}
 table{
-    margin: CENTER;
+    padding: 12PX;
     margin-left: 430PX;
     margin-right: 450px;
     margin-top: 20PX;
     margin-bottom: 20PX;
     background-color: rgb(165, 202, 245);
     color: rgb(232, 5, 5);
-    BORDER:5PX georgia;
+    BORDER:5PX solid BLUE;
 
 
 }
