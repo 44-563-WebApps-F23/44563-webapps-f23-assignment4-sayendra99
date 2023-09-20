@@ -12,7 +12,7 @@
     
 }
 .directions:hover{background-color:rgb(255, 238, 51);color:rgb(0, 16, 157);}
-.BERTA{color: rgb(48, 22, 241);font-size:15px;font-family: Arial;}
+.HEDDA{color: rgb(48, 22, 241);font-size:15px;font-family: Arial;}
 .MISSTESMAN {COLOR:rgb(255, 0, 0);fONT-size: 20PX;font-family: georgia;}
 table{
     margin: CENTER;
@@ -45,4 +45,4 @@ tr:nth-child(even) {
   .MISSTESMAN:hover{background-color: rgb(213, 30, 30);color:azure;
 text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);
 }
-  .BERTA:hover{background-color: rgb(24, 24, 100);color:ghostwhite;text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);}
+  .HEDDA:hover{background-color: rgb(24, 24, 100);color:ghostwhite;text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);}
