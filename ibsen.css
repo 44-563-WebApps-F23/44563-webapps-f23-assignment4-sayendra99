@@ -46,3 +46,22 @@ tr:nth-child(even) {
 text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);
 }
   .HEDDA:hover{background-color: rgb(24, 24, 100);color:ghostwhite;text-shadow:9px 1px 2px rgb(6, 78, 38); filter: blur(1px);}
+  ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+}
+ul.navbar-horizontal li{
+    float: left;
+    color: rgb(61, 180, 132);
+    background-color: aquamarine;
+}
+ul.navbar-horizontal a{
+    display: block;
+    padding: 8px;
+}
+ul.navbar-horizontol a:hover{
+    background-color: rgb(240, 214, 17);
+    color: rgb(38, 176, 82)
+}
+img{padding: auto;}
